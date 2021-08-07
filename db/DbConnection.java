@@ -12,7 +12,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author shanilmiranda
+ * @author jayampathi
  */
 public class DbConnection {
     private static DbConnection dBConnection;
