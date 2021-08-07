@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author shanilmiranda
+ * @author jayampathi
  */
 public class ItemRegistration extends javax.swing.JFrame {
 
